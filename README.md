@@ -32,9 +32,9 @@ When you click on 'Level 2' tab, you can verify the Dynamic response of the ther
 
 ## output:
 
-Thermocouple type:
+Thermocouple type: 
 
-Reference Temperature:
+Reference Temperature: 
 
 Output temperature: 
 
