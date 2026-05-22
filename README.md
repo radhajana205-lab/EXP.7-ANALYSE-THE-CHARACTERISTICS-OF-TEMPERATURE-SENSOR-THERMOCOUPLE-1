@@ -28,14 +28,31 @@ When you click on 'Level 2' tab, you can verify the Dynamic response of the ther
 
 ## CIRCUIT dIAGRAM:
 
-<img width="280" height="364" alt="image" src="https://github.com/user-attachments/assets/8bcab162-fe8c-448a-bae1-c619c036b913" />
+<img width="952" height="623" alt="WhatsApp Image 2026-05-22 at 11 12 37 AM" src="https://github.com/user-attachments/assets/23e9095c-2d35-4d32-801d-ba281793aecd" />
 
 ## output:
 
-Thermocouple type: 
+Thermocouple type: Nickel
 
-Reference Temperature: 
+Reference Temperature: 100
 
-Output temperature: 
+Output temperature: 108.06,249.18,234.4
 
 ## Result: 
+<img width="1002" height="726" alt="WhatsApp Image 2026-05-22 at 11 07 31 AM" src="https://github.com/user-attachments/assets/85362e90-8967-4de2-9ade-e36b722ca759" />
+
+<img width="442" height="192" alt="WhatsApp Image 2026-05-22 at 11 09 26 AM" src="https://github.com/user-attachments/assets/7d45c54e-310d-4aee-9b2b-b7fda04eacd9" />
+
+<img width="445" height="197" alt="WhatsApp Image 2026-05-22 at 11 09 45 AM" src="https://github.com/user-attachments/assets/366a3d61-6954-4254-aec6-f986c609dff6" />
+
+<img width="438" height="195" alt="WhatsApp Image 2026-05-22 at 11 10 06 AM" src="https://github.com/user-attachments/assets/935140c6-a905-4eed-9097-2e18da351e83" />
+
+<img width="446" height="202" alt="WhatsApp Image 2026-05-22 at 11 10 33 AM" src="https://github.com/user-attachments/assets/9a8e4b53-1202-4198-839c-28ea3a5b8f39" />
+
+
+
+
+
+
+
+
